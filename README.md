@@ -3,6 +3,6 @@
 <p> foi meu primeiro "push" para o Github.com</p><br>
 
 
-* Primeiro passos
-* Primeiro git
-* Primeiro git to github
+* Primeiros passos
+* Primeiro git init, git add,git commit, git push, git remote
+* Primeiro projeto para o github
